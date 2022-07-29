@@ -4,44 +4,24 @@ root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-{% include gh_variables.html %}
+This short online course caters for learners working with Life Science data and provides the necessary know-how on how to make this data FAIR.  This course is written in 3 sections, where the first 2 sections provide concise FAIR background and signposting to useful resources.  The final section focuses on practical examples of how to make Life Science data FAIR.
 
-For guidelines on how to develop curriculum content, please visit
-[The Carpentries Curriculum Development Handbook][curriculum-handbook].
 
-This lesson shows how to use [The Carpentries]({{ site.carpentries_site}})
-lesson template. The materials below assume familiarity with tools such as GitHub, Markdown,
-and Jekyll. For more guidance, please visit the [Technological introductions][tech-intro]
-section of The Carpentries Curriculum Development Handbook.
-
-For guidelines on how to help improve our lessons and this template,
-please see [the contribution guidelines][contributing];
-for guidelines on how to set up your machine to preview changes locally,
-please see [the setup instructions]({{ page.root }}{% link setup.md %}).
+> ## You will learn
+> - The FAIR principles and related terms including FAIRification and FAIRness of data.  
+> - The history of FAIR including publications and active FAIR projects in the Life Sciences.
+> - The differences between FAIR and Open data.
+> - Why FAIR is important, giving examples where by not using FAIR, data has been made unusable by others.
+> - How to make data FAIR through worked examples.
+{: .objectives}
 
 > ## Prerequisites
->
-> Use the `.prereq` style to specify prerequisites.
+> This is a basic course. There is no prior knowledge necessary. Our course contains RDMBites, which are 3-5 minute videos that will assist you grasp the basic concept of 
+> the lesson.
 {: .prereq}
 
-> ## Ten Things You Need To Know
->
-> 0.  Don't panic.
-> 1.  Create a new lesson by using GitHub Import, *not* by forking.
-> 2.  Run `bin/lesson_initialize.py` *once* in a new lesson repository to set up standard files.
-> 3.  Run `make lesson-check` to check that the lesson is formatted correctly.
-> 4.  Put lesson episodes in `_episodes` (or `_episodes_rmd` if you are writing in RMarkdown).
-> 5.  Run `make serve` to preview the lesson website locally.
-> 6.  Do *not* commit the generated HTML files in the `_site` directory.
-> 7.  Style blocks and code samples by putting `{: .stylename}` on a newline *after* the block or
-      code.
-> 8.  Put solutions inside challenges using nested blockquotes.
-> 9.  File issues and template fixes in the [styles repository][styles],
->     and enhancements to this documentation in this one.
-{: .checklist}
-
-[curriculum-handbook]: https://carpentries.github.io/curriculum-development/
-[tech-intro]: https://carpentries.github.io/curriculum-development/technological-introductions.html
-
-{% include links.md %}
-
+> ## For Reviewers
+> If you have any comments, suggestions for our course, you can open a pull request or add your comments directly to this 
+> [google doc](https://docs.google.com/document/d/1twW2NOieV-s4UmIgiMSQaD5DdOrg82sLdR1XpwkupHg/edit). This Google doc will be constantly monitored in case there are any future comments. For any enquiries, contact Sara Morsy (skhalil7@bradford.ac.uk)
+> 
+{: .discussion}
