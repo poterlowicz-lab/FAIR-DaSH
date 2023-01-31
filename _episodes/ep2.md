@@ -39,15 +39,15 @@ D) General data repository: multidisciplinary or/and general-purpose open data r
 To ensure data findability, your data should be uploaded to a public repository where it can be searched and found, This will make it comply with the fourth principle of findability (F4) which states that **(Meta)data are registered or indexed in a searchable resource**. 
 Examples of these databases are  [ArrayExpress](https://www.ebi.ac.uk/biostudies/arrayexpress) for high-throughput functional genomics experiments. These databases have a set of rules in place to make sure that your data will be FAIR. After you upload your data into this database, they are assigned an ID and are indexed. Indexing helps researchers find your data by using persistent identifiers, keyword or even the name of researcher.
 
-Take a look at the [ArrayExpress](https://www.ebi.ac.uk/biostudies/arrayexpress database where all datasets are indexed, and you can simply find any dataset using the search tools. By indexing data, you can get the dataset using any keyword other than the PID. For example, if you want to locate **human NSCL cell** lines, you can just type this into the search toolbox. Use different keywords like **cartilage, stem cells and oesteoarthritis** and you will find the same dataset. Indexing and registering datasets, also means they are curated in such a way that you may discover them using different keywords. You can find the same dataset by using its identifiers or by using keywords chosen by the dataset's authors to describe it.
+Take a look at the [ArrayExpress](https://www.ebi.ac.uk/biostudies/arrayexpress) database where all datasets are indexed, and you can simply find any dataset using the search tools. By indexing data, you can get the dataset using any keyword other than the PID. For example, if you want to locate **human NSCL cell** lines, you can just type this into the search toolbox. Use different keywords like **cartilage, stem cells and oesteoarthritis** and you will find the same dataset. Indexing and registering datasets, also means they are curated in such a way that you may discover them using different keywords. You can find the same dataset by using its identifiers or by using keywords chosen by the dataset's authors to describe it.
 
 ![When you upload your dataset to a database, it can be curated and easily found using different keywords](../fig/img54.png)
 
 ![By indexing your dataset, you can retrieve it using its PID](../fig/img55.png)
 
-> ## Exercise 1. How to index your dataset?
-> One of the things you can do to index your dataset, is to upload it to Zenodo, can you use one of the 
-> resources we recommended before to know how to do this?
+> ## Exercise 1. How to easy index your dataset in the data repository?
+> Tip:  [zenodo](https://zenodo.org) provides index for all deposited data. You can use one of the 
+> resources we recommended before to find out how to do it.
 > [RDMkit](https://rdmkit.elixir-europe.org/), [FAIRcookbook](https://faircookbook.elixir-europe.org/), [FAIRsharing](https://fairsharing.org/)
 >> ## Solution
 >> Since you want a technical guideline, FAIRcookbook and RDMkit are the best to start with. We will start 
