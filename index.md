@@ -3,18 +3,18 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
+## FAIR on Demand
 
-This short online course caters for learners working with Life Science data and provides the necessary know-how to make data FAIR.
-The course provides concise, didactic FAIR background and signposting to useful resources and literature. Learners will be able to familiarise themselves with basic content and follow links to additional reading and training resources, if they wish to pursue a concept in more depth. The aim here is to give enough overview required for the second part of this course where real data examples are used to demonstrate FAIR in practice and engage in active learning.
- 
-**This work is funded by a UKRI Innovation Scholars award (MR/C038966/1)**
+This short online course caters to anyone working with biological data and provides the necessary know-how to make data FAIR (Findable, Accessible, Interoperable, and Reusable).  
+The course walks the trainees through all FAIR principles, with examples to understand the basics of data management and how to implement the principles with real-life scenarios. Trainees will familiarise themselves and learn how to use resources to make their data FAIR, such as RDMkit, FAIRCookbook, FAIRsharing or Data Stewardship Wizard. These are ELIXIR-endorsed resources committed to sustainability and open access. The course also highlights references for further information to larges pieces of training and reading.
+**This work is funded by the UKRI Innovation Scholars award (MR/C038966/1)**
 
-> ## You will learn
-> - The FAIR principles and related terms including FAIRification and FAIRness of data.  
-> - The history of FAIR including publications and active FAIR projects in the Life Sciences.
-> - The differences between FAIR and Open data.
-> - Why FAIR is important, giving examples where by not using FAIR, data has been made unusable by others.
-> - How to make data FAIR through worked examples.
+> **In this course, you will learn how to:**
+> - Identify resources where to look for help
+> - Contextualise the main principles of FAIR in the light of the main pillars (Identifiers, access, metadata, and registration)
+> - Identify the importance of FAIR principles for the open science
+> - Explain The difference between FAIR and open data
+> - Use the right metadata to describe their data explicitly
 {: .objectives}
 
 > ## Prerequisites
