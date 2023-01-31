@@ -45,10 +45,10 @@ Take a look at the [ArrayExpress](https://www.ebi.ac.uk/biostudies/arrayexpress)
 
 ![By indexing your dataset, you can retrieve it using its PID](../fig/img55.png)
 
-> ## Exercise 1. How to easy index your dataset in the data repository?
-> Tip:  [zenodo](https://zenodo.org) provides index for all deposited data. You can use one of the 
-> resources we recommended before to find out how to do it.
+> ## Exercise 1. Indexing dataset in the data repository?
+> [zenodo](https://zenodo.org) provides index for all deposited data. Use 
 > [RDMkit](https://rdmkit.elixir-europe.org/), [FAIRcookbook](https://faircookbook.elixir-europe.org/), [FAIRsharing](https://fairsharing.org/)
+> to find information how to index dataset in **zenodo**. Discuss required steps
 >> ## Solution
 >> Since you want a technical guideline, FAIRcookbook and RDMkit are the best to start with. We will start 
 >> with [FAIRcookbook](https://faircookbook.elixir-europe.org/)
