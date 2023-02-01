@@ -62,7 +62,8 @@ For instance, you can describe carotid artery as "common carotid artery" or  "ca
 
 When you describe your data, you also need to describe the relationship between different vocabularies, which we call it **ontologies**
 
-Ontologies: describe the relationship between different terms. There are many resources that you can use to get ontologies for your metadata. BRENDA, an ELIXIR resource that helps you get the right ontologies for your metadata. 
+Ontologies: describe the relationship between different terms. There are many resources that you can use to get ontologies for your metadata. [BRENDA](https://www.ebi.ac.uk/ols/ontologies/bto), an ELIXIR resource that helps you get the right ontologies for your metadata. As in figure 3, you can see that BRENDA provides you with tree graph presenting the relationship between different terms. In this example, you can see how Fanconi anemia is related to other types of anemia
+![Figure 3. an example of ontologies as presented in BRENDA](../fig/onto.jpg)
 
 > ## Exercise
 > You are researcher working in the field of food safety and you are doing clinical trial, do you know how to > choose the right vocabularies and ontologies for it?
